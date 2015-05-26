@@ -1,8 +1,8 @@
 Gem::Specification.new do |s|
-  s.name = 'logstash-output-example'
+  s.name = 'logstash-output-say'
   s.version         = "0.1.3"
   s.licenses = ["Apache License (2.0)"]
-  s.summary = "This example output does nothing."
+  s.summary = "This say output does nothing."
   s.description = "This gem is a logstash plugin required to be installed on top of the Logstash core pipeline using $LS_HOME/bin/plugin install gemname. This gem is not a stand-alone program"
   s.authors = ["Elastic"]
   s.email = "info@elastic.co"
